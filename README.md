@@ -37,6 +37,6 @@ it its empty return True, otherwise False.
 both user and computer. it validates results after each move played by either user
 or computer. it checks for 3 situations.
 
-... - **User Won the Game?**
-... - **Computer Won the Game?**
-... - **The game is Draw?**
+   - **User Won the Game?**
+   - **Computer Won the Game?**
+   - **The game is Draw?**
